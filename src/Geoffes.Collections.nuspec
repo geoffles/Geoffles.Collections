@@ -1,0 +1,13 @@
+<package>
+  <metadata>
+    <id>Geoffles.Collections</id>
+    <version>1.0.0</version>
+    <title>Geoffles.Collections</title>
+    <authors>Geoffrey Lydall</authors>
+    <description>
+      Specialised collections library.
+    </description>
+    <projectUrl>https://github.com/geoffles/Geoffles.Collections</projectUrl>
+    <licenseUrl>https://github.com/geoffles/Geoffles.Collections/blob/master/LICENSE</licenseUrl>
+  </metadata>  
+</package>
